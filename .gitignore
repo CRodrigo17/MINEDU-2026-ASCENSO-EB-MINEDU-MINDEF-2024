@@ -1,0 +1,8 @@
+data/
+inputs/
+output/
+
+*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
